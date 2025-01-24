@@ -176,16 +176,16 @@ select category, count(*) as total_content from new_table
 group by 1
 ```
 ## Findings
-### 1.Content Trends: Identified the most popular genres, movies, and TV shows on Netflix based on viewership data.
-### 2.User Engagement Patterns: Analyzed binge-watching habits, revealing peak hours and average watch time per session.
-### 3.Regional Preferences: Found regional differences in content preferences, highlighting varying interests across countries.
-### 4.Churn Rate Insights: Discovered trends related to user retention, offering insights into factors influencing subscription cancellations.
+#### 1.Content Trends: Identified the most popular genres, movies, and TV shows on Netflix based on viewership data.
+#### 2.User Engagement Patterns: Analyzed binge-watching habits, revealing peak hours and average watch time per session.
+#### 3.Regional Preferences: Found regional differences in content preferences, highlighting varying interests across countries.
+#### 4.Churn Rate Insights: Discovered trends related to user retention, offering insights into factors influencing subscription cancellations.
 
-##Conclusions
-### 1.Content Strategy: Netflix should focus on producing more of the popular genres identified in the analysis to cater to user demand.
-### 2.Personalized Recommendations: Leveraging user engagement patterns can improve Netflix's recommendation system for enhanced user experience.
-### 3.Regional Customization: Tailor marketing and content releases to specific regional tastes to increase global engagement.
-### 4.Retention Improvement: Strategies to reduce churn should focus on factors influencing cancellations, such as pricing and content variety.
+## Conclusions
+#### 1.Content Strategy: Netflix should focus on producing more of the popular genres identified in the analysis to cater to user demand.
+#### 2.Personalized Recommendations: Leveraging user engagement patterns can improve Netflix's recommendation system for enhanced user experience.
+#### 3.Regional Customization: Tailor marketing and content releases to specific regional tastes to increase global engagement.
+#### 4.Retention Improvement: Strategies to reduce churn should focus on factors influencing cancellations, such as pricing and content variety.
 
 
 
