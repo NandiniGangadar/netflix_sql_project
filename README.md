@@ -4,13 +4,13 @@
 ##overview
 This project focuses on performing an in-depth analysis of Netflix's movie and TV show dataset using SQL. The primary aim is to uncover actionable insights and address key business questions derived from the data. This README outlines the project's purpose, the business challenges tackled, the approaches and solutions implemented, key insights uncovered, and the conclusions drawn from the analysis.
 
-##Objectives
+## Objectives
 > Analyze Netflix's movie and TV show data to uncover trends and patterns.
 > Address key business questions to support strategic decision-making.
 > Extract insights on popular genres, audience preferences, and content performance.
 > Provide actionable recommendations based on SQL-driven data analysis.
 
-##Datasets
+## Datasets
 The data for this project is sourced from the Kaggle dataset:
 Dataset Link: Movies Dataset
 
